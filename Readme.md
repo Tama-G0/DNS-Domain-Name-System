@@ -44,9 +44,3 @@ DNS adalah sistem yang sangat penting dalam dunia internet. DNS memungkinkan kit
 
   * **DNS hijacking:** Serangan siber yang bertujuan untuk mengalihkan lalu lintas internet ke server palsu.
   * **DNS tunneling:** Teknik untuk menyembunyikan lalu lintas internet dalam lalu lintas DNS.
-
-**Apakah Anda ingin tahu lebih lanjut tentang topik tertentu terkait DNS?**
-
-**Kata kunci:** DNS, domain name system, alamat IP, server DNS, cache DNS, DNS resolver, DNS hijacking, DNS tunneling.
-
-Semoga penjelasan ini bermanfaat\!
