@@ -1,3 +1,4 @@
+## Reksa Prastama Putra 1224800013
 ## UAS Komunikasi Jaringan 2024
 Question below are based on the trace file tcp-ethereal-trace-1
 in http://gaia.cs.umass.edu/wireshark-labs/wireshark-traces.zip
