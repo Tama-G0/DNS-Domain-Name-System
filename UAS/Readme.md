@@ -74,7 +74,7 @@ EstimatedRTT = 0.875 * 0.0558 + 0.125 * 0.18964 = 0.0725
 
 Figure 6: Round Trip Time Graph
 
-### 7.	What is the length of each of the first six TCP segments?(Attach the screenshot of your Wireshark's display)  (15%)
+### 7.	What is the length of each of the first six TCP segments?(Attach the screenshot of your Wireshark's display)
 Answers:
 The length of the first TCP segment, which contains the HTTP POST command, is 565 bytes. This segment is smaller than the following segments because in addition to containing the application data, it also contains the TCP header used to continue communication. After that, there are five additional TCP segments, each with a length of 1460 bytes, which correspond to the Maximum Segment Size (MSS) agreed upon during TCP connection negotiation. MSS is used to ensure that the segment size does not exceed the maximum limit that can be handled by the network, thus avoiding data fragmentation and improving delivery efficiency in the network.
 
