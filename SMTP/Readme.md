@@ -51,13 +51,13 @@ Proses pengiriman email menggunakan SMTP dapat dibagi menjadi beberapa tahap:
 
 **Contoh Penggunaan:**
 
-Ketika Anda mengirim email dari Gmail ke Yahoo, prosesnya adalah sebagai berikut:
+Ketika mengirim email dari Gmail ke Yahoo, prosesnya adalah sebagai berikut:
 
-1. Anda menulis email di Gmail (MUA).
+1. Menulis email di Gmail (MUA).
 2. Gmail (server SMTP pengirim) terhubung ke server SMTP Yahoo.
 3. Pesan email dikirim ke server SMTP Yahoo.
-4. Server SMTP Yahoo menyimpan email di mailbox Yahoo Anda.
+4. Server SMTP Yahoo menyimpan email di mailbox Yahoo.
 
 **Kesimpulan:**
 
-SMTP adalah protokol yang sangat penting dalam dunia email. Dengan memahami cara kerjanya, Anda akan lebih mengerti bagaimana email yang Anda kirim dapat sampai ke tujuan dengan cepat dan aman.
+SMTP adalah protokol yang sangat penting dalam dunia email. Dengan memahami cara kerjanya, akan lebih mengerti bagaimana email yang Anda kirim dapat sampai ke tujuan dengan cepat dan aman.
