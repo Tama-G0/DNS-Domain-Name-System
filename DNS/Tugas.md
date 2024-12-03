@@ -28,7 +28,8 @@ Anda ingin mengunjungi situs web Kompas.com. Anda mengetikkan alamatnya di brows
 
 **Ilustrasi:**
 
-![image](https://github.com/user-attachments/assets/c5132633-bf76-4bb2-8245-55314ac68614)
+![DNS drawio](https://github.com/user-attachments/assets/81c9f8f4-7164-48ae-9d04-e70950a37cd2)
+
 
 **Jenis-jenis DNS:**
 
